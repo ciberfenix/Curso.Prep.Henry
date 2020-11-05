@@ -5,7 +5,7 @@
       <a href="https://airtable.com/shrSzEYT4idEFGB8d?prefill_clase=01-Git">
         <img src="https://static.thenounproject.com/png/204643-200.png" width="100"/>
         <br>
-        Hacé click acá para dejar tu feedback sobre esta clase.
+        La encontre dinámica e interesante, la vi dos veces ya que en la primera detenía el video para bajar los softwares y la segunda ya con calma haciendo todo en conjunto.
       </a>
     </td>
   </tr>
